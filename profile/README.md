@@ -2,6 +2,7 @@
 
 Repositories related to POMS and the NPO Frontend API. Originally developed by by VPRO, now maintained by NPO.
 
+See [poms-parent](poms-parent)
 <!--
 
 **Here are some ideas to get you started:**
