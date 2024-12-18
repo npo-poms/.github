@@ -1,4 +1,6 @@
-## Hi there 👋
+## NPO /POMS 
+
+Repositories related to POMS and the NPO Frontend API. Originally developed by by VPRO, now maintained by NPO.
 
 <!--
 
