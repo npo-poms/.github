@@ -1,6 +1,6 @@
 ## NPO /POMS 
 
-Repositories related to POMS and the NPO Frontend API. Originally developed by by VPRO, now maintained by NPO.
+Repositories related to POMS and the NPO Frontend API. Originally developed by by VPRO, now maintained by NPO/mmprogrami 
 
 See [poms-parent](https://github.com./npo-poms/poms-parent)
 <!--
